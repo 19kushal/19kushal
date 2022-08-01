@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @19kushal
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... Backend
 - 📫 How to reach me ...
 - Insta- kushall.19
 
